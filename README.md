@@ -4,7 +4,7 @@
 
 **Business analyst and mathematician in Dhaka, Bangladesh.** I take messy operational data — orders, budgets, ledgers, departmental directories — and turn it into a decision someone can act on. When the decision needs a tool rather than a slide, I build the tool too.
 
-I'm looking for a **junior data analyst / business analyst** role. Excel and Python (pandas) are where I do the analysis; SQL, React and serverless workers are how I ship it. I also teach mathematics and mentor early-stage founders with GEN Bangladesh, which is where most of my practice at explaining technical things to non-technical people comes from.
+I'm looking for a **Data analyst / Business analyst** role. Excel and Python (pandas) are where I do the analysis; SQL, React and serverless workers are how I ship it. I also teach mathematics and mentor early-stage founders with GEN Bangladesh, which is where most of my practice at explaining technical things to non-technical people comes from.
 
 [LinkedIn](https://www.linkedin.com/in/md-abir-ul-islam/) · [Hugging Face](https://huggingface.co/Nexabir) · [X](https://x.com/AbirIslam103)
 
@@ -51,4 +51,4 @@ Everything in that table has at least one shipped project behind it here. Nothin
 
 ---
 
-**Open to junior data analyst / business analyst roles — Dhaka or remote.** Best way to reach me is [LinkedIn](https://www.linkedin.com/in/md-abir-ul-islam/).
+**Open to Analyst / Business analyst roles — Dhaka or remote.** The best way to reach me is [LinkedIn](https://www.linkedin.com/in/md-abir-ul-islam/).
