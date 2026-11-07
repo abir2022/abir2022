@@ -1,3 +1,5 @@
+![Md. Abir Ul Islam](assets/banner.svg)
+
 ### Hi, I'm Abir 👋
 
 **Business analyst and mathematician in Dhaka, Bangladesh.** I take messy operational data — orders, budgets, ledgers, departmental directories — and turn it into a decision someone can act on. When the decision needs a tool rather than a slide, I build the tool too.
